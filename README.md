@@ -35,4 +35,4 @@ que consulte el servicio API escrito en la Parte 2.
 una aplicación de Flask que permita al usuario ingresar valores y que
 retorne el precio de la casa
 
-![house-predictor]()
+![house-predictor](https://github.com/jdvelasq/PRE_sklearn_build_and_deploy_models/blob/main/house_predictor.png)
